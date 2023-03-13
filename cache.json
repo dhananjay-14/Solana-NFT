@@ -1,0 +1,58 @@
+{
+  "program": {
+    "candyMachine": "55o4hj2WG6AGm7w1Gg6hZRHxFzUUxnfXbdE8sA314oDr",
+    "candyGuard": "",
+    "candyMachineCreator": "D44Vt59WVLutwZJbY6g586Zpb24LA8Si3xbRJSMMvEpf",
+    "collectionMint": "FWKi6HgpjoEEuPdUhp5ryjwdBN8urc6nErHaeNHQtvDu"
+  },
+  "items": {
+    "-1": {
+      "name": "My Google NFT Collection",
+      "image_hash": "9277b68c2c2c98002dbc738b34ee217b7c1b88e944ad11ce1bcc963c9c804929",
+      "image_link": "https://arweave.net/VanPvCuoC_0cr8WXIDyT_rfBXz4GrVye-jLWgcfqnpw?ext=png",
+      "metadata_hash": "eabdba6a74346b9c1cf384e2097a50c974eac6534e4812c810502dba880a1eac",
+      "metadata_link": "https://arweave.net/70wCrCPwk729S2sjxzp-O1cF0J-yXpalkgzbq6JsfnQ",
+      "onChain": true
+    },
+    "0": {
+      "name": "Warrior",
+      "image_hash": "dafbf4b385dfebf110cd6febd7e3a57083e5dbd7698b4b1e858bacc94dff9e3c",
+      "image_link": "https://arweave.net/Y67tIkEYCVsvDfxyhpkppu3l51niCbHHfbA4fhyqC8A?ext=png",
+      "metadata_hash": "31a3f6f53ffc890783b623191b1e13202eb777303ac87cf21f3b0e6c76d664dc",
+      "metadata_link": "https://arweave.net/Ae4E-QeeCnq1EwfZkYsY3jDL6o8jjqYuc-qukw7CMk8",
+      "onChain": true
+    },
+    "1": {
+      "name": "Monkey_Face",
+      "image_hash": "1a5f636948d9e953e6ef6f5fa83f84bc4aa1bb41f85ed255e905f039ab1aced8",
+      "image_link": "https://arweave.net/ZslebVn8fmqJVTZ3CGZM3Qc-poP05H4nPLn3Uujj-z4?ext=png",
+      "metadata_hash": "a174b26cef0c17783c9328246fe9325dc5ff91de02d905cb884b2470a725269a",
+      "metadata_link": "https://arweave.net/C7IwqaeDNt1mKFAaaeolMPM01ik_96MsxxvUicB434s",
+      "onChain": true
+    },
+    "2": {
+      "name": "Robo",
+      "image_hash": "c4d3ea37f0d22af45803694d77775de5f642678af3a7260daf59d138fcfb4983",
+      "image_link": "https://arweave.net/Viva2lJp1Ml8udxPHCthGsFQ8saVS4CUMD8OFvEuw0I?ext=png",
+      "metadata_hash": "f521bd65567ede8359f6cebb5a5fe436ee5a92076c117288342abb229998d3a5",
+      "metadata_link": "https://arweave.net/90Mk8WluY5XS1P2aV1Ti_gsduYSt8nlz46lxMASjLpA",
+      "onChain": true
+    },
+    "3": {
+      "name": "Bored_Ape",
+      "image_hash": "297892e0cd073cbb9a538a23562616a396b5285516f760c6bb49dc0e7921e9af",
+      "image_link": "https://arweave.net/loEtZsPOIwNOPQaHp7xwJa2WwnHA9p2bWJJk43C7XBQ?ext=png",
+      "metadata_hash": "47316493343af1cbfaaa5621382cd2cd9246971f18dd0769f12a2b796b2876fb",
+      "metadata_link": "https://arweave.net/ugiwW5FMoDmRK6dT224Kxj2HZGiywOdEWZkDcUsCps4",
+      "onChain": true
+    },
+    "4": {
+      "name": "Football",
+      "image_hash": "8b8210ebe5f77376a75504d7716ef1b8c887155bfae45548386aef8c0c60d808",
+      "image_link": "https://arweave.net/tmL3HZO0i_TNmpPsE5w0GK76E14Y0UNoIhMlerp1q_o?ext=png",
+      "metadata_hash": "22a31c4b9f60c78faab1a0eb81cde03b788ccf83a463dd44609b17f651d8bf45",
+      "metadata_link": "https://arweave.net/owX87Q7yLVW3I-3BVu4hsOFgDxjqEOrz8eoPUxPAWpo",
+      "onChain": true
+    }
+  }
+}

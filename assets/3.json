@@ -1,0 +1,22 @@
+{
+    "name": "Bored_Ape",
+    "symbol": "WR",
+    "description": "This is NFT no 4",
+    "image": "3.png",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "3"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "3.png",
+          "type": "image/png"
+        }
+      ],
+      "category":"image"
+    },
+    "seller_fee_basis_points":500
+  }

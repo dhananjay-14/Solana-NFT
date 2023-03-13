@@ -1,0 +1,22 @@
+{
+  "name": "Warrior",
+  "symbol": "WR",
+  "description": "This is NFT no 1",
+  "image": "0.png",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "0"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category":"image"
+  },
+  "seller_fee_basis_points":500
+}

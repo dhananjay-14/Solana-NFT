@@ -1,0 +1,23 @@
+{
+  "price": 1.0,
+  "number": 5,
+  "symbol": "WR",
+  "sellerFeeBasisPoints": 500,
+  "isMutable": true,
+  "isSequential": false,
+  "solTreasuryAccount": "4CKNAoNCW4EThvT46HHCeLoHtHpEQm1FnzpzfFQmRzdW",
+  "creators": [
+    {
+      "address": "A1qDjkWBhq7k5nwHtFu6zBNozK7uZHoF8GU1tPm3yLXQ",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "goLiveDate": "now",
+  "awsConfig": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": null
+}

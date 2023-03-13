@@ -1,0 +1,22 @@
+{
+    "name": "Monkey_Face",
+    "symbol": "WR",
+    "description": "This is NFT no 2",
+    "image": "1.png",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "1"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "category":"image"
+    },
+    "seller_fee_basis_points":500
+  }

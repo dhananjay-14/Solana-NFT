@@ -1,0 +1,16 @@
+{
+    "name": "My Google NFT Collection",
+    "symbol": "WR",
+    "description": "Collection of 5 NFT images from the Google.",
+    "image": "collection.png",
+    "attributes": [],
+    "properties": {
+      "files": [
+        {
+          "uri": "collection.png",
+          "type": "image/png"
+        }
+      ]
+    },
+    "seller_fee_basis_points":500
+  }
